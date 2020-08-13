@@ -1,4 +1,4 @@
-### Hi there, I'm Abuh Solomon  👋
+### Hi, I'm Abuh Solomon  👋
 
 ## I'm a Firm Believer, UI/UX Designer, Developer, and Teacher!
 - 🔭 I’m currently working with #Build4SDGS!
