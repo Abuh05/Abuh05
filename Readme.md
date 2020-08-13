@@ -36,7 +36,8 @@
 ---
 
 
-<img align="left" alt="Abuhsolo05's Github Stats" src="https://github-readme-stats.abuhsolo05.vercel.app/api?username=Abuhsolo05&show_icons=true&hide_border=true" />
+[![AbuhSolo's github stats](https://github-readme-stats.vercel.app/api?username=Abuhsolo05)](https://github.com/Abuhsolo05/github-readme-stats)
+
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
