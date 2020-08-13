@@ -36,7 +36,7 @@
 ---
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Abuhsolo05's Github Stats" src="https://github-readme-stats.abuhsolo05.vercel.app/api?username=Abuhsolo05&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
