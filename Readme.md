@@ -40,7 +40,7 @@
 
 
 [website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/abuh_suleiman
 [youtube]: https://youtube.com/
-[instagram]: https://instagram.com/abuhsolo05
-[linkedin]: https://linkedin.com/in/suleimanAbuh
+[instagram]: https://www.instagram.com/abuhsolo05/
+[linkedin]: https://www.linkedin.com/in/suleiman-abuh-563a3613a/
