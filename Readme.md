@@ -36,7 +36,7 @@
 ---
 
 
-[![AbuhSolo's github stats](https://github-readme-stats.vercel.app/api?username=Abuhsolo05)](https://github.com/Abuhsolo05/github-readme-stats)
+[![AbuhSolo's github stats](https://github-readme-stats.vercel.app/api?username=Abuh05)](https://github.com/Abuh05/github-readme-stats)
 
 
 [website]: https://codeSTACKr.com
