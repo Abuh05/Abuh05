@@ -2,7 +2,7 @@
 
 ## I'm a Firm Believer, UI/UX Designer, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Deno,Typescript and advance NodeJS and React Family 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn and Contribute to the developemnt of projects
 - ⚡ Fun fact: I love to read books 
