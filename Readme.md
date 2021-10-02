@@ -1,10 +1,10 @@
-### Hi, I'm Abuh Solomon  👋
+### Hi, I'm Abuh Suleiman  👋
 
-## I'm a Firm Believer, UI/UX Designer, Developer, and Teacher!
-- 🔭 I’m currently working with #Build4SDGS!
-- 🌱 I’m currently learning Deno,Typescript and advance NodeJS and React Family 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn and Contribute to the developemnt of projects
+## I'm a Firm Believer, Software Developer, UI/UX Designer, and Teacher!
+- 🔭 I’m currently working with #MERN Stack Projects!
+- 🌱 I’m currently learning Typescript and advance NodeJS and React Family 🤣
+- 👯 I’m looking to collaborate with other.
+- 🥅 2021 Goals: Learn and Contribute to the developemnt of projects
 - ⚡ Fun fact: I love to read books 
 
 ### Connect with me:
