@@ -1,4 +1,4 @@
-### Hi, I'm Abuh Suleiman  👋
+### Hi, I'm Abuh Solomon  👋
 
 ## I'm a Firm Believer, Software Developer, UI/UX Designer, and Teacher!
 - 🔭 I’m currently working with #MERN Stack Projects!
