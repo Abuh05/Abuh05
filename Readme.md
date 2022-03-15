@@ -1,10 +1,10 @@
 ### Hi, I'm Abuh Solomon  👋
 
 ## I'm a Firm Believer, Software Developer, UI/UX Designer, and Teacher!
-- 🔭 I’m currently working with #MERN Stack Projects!
-- 🌱 I’m currently learning Typescript and advance NodeJS and React Family 🤣
+- 🔭 I’m currently working Web3.0 Projects!
+- 🌱 I’m currently learning Solidity and advance NodeJS and React Family 🤣
 - 👯 I’m looking to collaborate with other.
-- 🥅 2021 Goals: Learn and Contribute to the developemnt of projects
+- 🥅 2022 Goals: To be a blockchain(Web3.0) Developer
 - ⚡ Fun fact: I love to read books 
 
 ### Connect with me:
