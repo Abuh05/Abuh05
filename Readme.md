@@ -1,10 +1,10 @@
 ### Hi, I'm Abuh Solomon  👋
 
-## I'm a Firm Believer, Software Developer, UI/UX Designer, and Teacher!
-- 🔭 I’m currently working Web3.0 Projects!
-- 🌱 I’m currently learning Solidity and advance NodeJS and React Family 🤣
+## I'm a Firm Believer, Software Developer, Entrepreneur, and Teacher!
+- 🔭 I’m currently working on Sass Projects!
+- 🌱 I’m currently learning CyberSecurity and AI.
 - 👯 I’m looking to collaborate with other.
-- 🥅 2022 Goals: To be a blockchain(Web3.0) Developer
+- 🥅 2023 Goals: To be a CyberSecurity Analyst and AI Developer
 - ⚡ Fun fact: I love to read books 
 
 ### Connect with me:
