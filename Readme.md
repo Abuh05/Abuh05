@@ -1,4 +1,4 @@
-### Hi, I'm Abuh Solomon  👋
+### Hi, I'm Abuh Solomon (Suleiman)  👋
 
 ## I'm a Firm Believer, Software Developer, Entrepreneur, and Teacher!
 - 🔭 I’m currently working on Sass Projects!
